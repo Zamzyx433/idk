@@ -66,7 +66,7 @@ function a0_0x189f() {
   }
   .
   constructor("
-  return this")( )','exception','rOmmi','1.2em','pEoWa','yhlQY','xhMxl','0 4px 20px rgba(0,0,0,0.2)','VIgKM','HtASy','WlLyV','https://raw.githubusercontent.com/Zamzyx433/idk/refs/heads/main/Pellr.json','otwzG','tpMpo','xJqVD','HGuBp','object','AiJmV','Welcome back, ','tPDnh','trans
+  return this")( )','exception','rOmmi','1.2em','pEoWa','yhlQY','xhMxl','0 4px 20px rgba(0,0,0,0.2)','VIgKM','HtASy','WlLyV','https://raw.githubusercontent.com/broidontspam-cpu/access.json/main/access.json','otwzG','tpMpo','xJqVD','HGuBp','object','AiJmV','Welcome back, ','tPDnh','trans
   form','kHxnd','nHaRa','qLCJe','OMepe','pFamA','data','vjPug','68f1484a-4452-4448-9630-4795bb53c79f','gnxnL','yHSsw','rHgIw','ycZMe','rWCmA','XcLqa','borderRadius','Glkgh','link','LwmFJ','none','XuTIe','zeBDx','emERL','DnwHI','4px solid #d00','VDcJB','nvhOL','VtNSs','ajchc','pWHOG','nduCI','[BypassVIP] Attempt loop ','DUXhQ','uuMfd','uJDvq','CbKIl','tisag','SsYQG','just
   ifyContent','gXKZZ','includes','ELAxw','PHxxQ','rAGFk','wSCfl','zIndex','MlxAB','translateX(-50%)','0 8px 24px rgba(0,0,0,0.3)','fFABJ','EvGmp','#155724',' seconds...','FSgbr','Invalid username or password.','block','lWxiZ','trace','KkcLk','monospace','mVwGO','oYlQN','GET','RsrYm','Qrcqo','BwOhb','#fff','XMRVD','mVQBK','AyzUq','CpxbK','xKgsx','prototype','lqGsF','Login error:','expired','suyYN','then','GwOkP','PDsPn','marginBottom','ZfXgz','JcjfA','APNkR','
   position:fixed;
